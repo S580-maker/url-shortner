@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: url-shortener
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: LOG_LEVEL
+        value: info
+      - key: API_KEYS
+        value: key1:secret1,key2:secret2
+      - key: BASE_URL
+        fromDatabase:
+          name: database
+          property: connectionString
+      - key: ENABLE_SWAGGER
+        value: "true"
+      - key: CORS_ORIGINS
+        value: "*"
