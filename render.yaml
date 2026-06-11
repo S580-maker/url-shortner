@@ -15,7 +15,7 @@ services:
       - key: API_KEYS
         value: key1:secret1,key2:secret2
       - key: BASE_URL
-        scope: runtime
+        value: https://url-shortener.onrender.com
       - key: ENABLE_SWAGGER
         value: "true"
       - key: CORS_ORIGINS
