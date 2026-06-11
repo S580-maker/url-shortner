@@ -1,0 +1,84 @@
+2026-06-11 12:05:37 [INFO] ::1 - - [11/Jun/2026:12:05:37 +0000] "GET / HTTP/1.1" 200 11841 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:05:37 [INFO] ::1 - - [11/Jun/2026:12:05:37 +0000] "GET /style.css HTTP/1.1" 200 15245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:05:38 [INFO] ::1 - - [11/Jun/2026:12:05:38 +0000] "GET /script.js HTTP/1.1" 200 13921 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:06:07 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:06:07 [ERROR] Request failed
+2026-06-11 12:06:07 [INFO] ::1 - - [11/Jun/2026:12:06:07 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:06:14 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:06:14 [ERROR] Request failed
+2026-06-11 12:06:14 [INFO] ::1 - - [11/Jun/2026:12:06:14 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:06:31 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:06:31 [ERROR] Request failed
+2026-06-11 12:06:31 [INFO] ::1 - - [11/Jun/2026:12:06:31 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:09 [INFO] ::1 - - [11/Jun/2026:12:07:09 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:09 [INFO] ::1 - - [11/Jun/2026:12:07:09 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:09 [INFO] ::1 - - [11/Jun/2026:12:07:09 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:09 [INFO] ::1 - - [11/Jun/2026:12:07:09 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:17 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:07:17 [ERROR] Request failed
+2026-06-11 12:07:17 [INFO] ::1 - - [11/Jun/2026:12:07:17 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:23 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:07:23 [ERROR] Request failed
+2026-06-11 12:07:23 [INFO] ::1 - - [11/Jun/2026:12:07:23 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:48 [INFO] ::1 - - [11/Jun/2026:12:07:48 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:48 [INFO] ::1 - - [11/Jun/2026:12:07:48 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:48 [INFO] ::1 - - [11/Jun/2026:12:07:48 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:48 [INFO] ::1 - - [11/Jun/2026:12:07:48 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:07:59 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:07:59 [ERROR] Request failed
+2026-06-11 12:07:59 [INFO] ::1 - - [11/Jun/2026:12:07:59 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:08 [INFO] ::1 - - [11/Jun/2026:12:08:08 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:08 [INFO] ::1 - - [11/Jun/2026:12:08:08 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:08 [INFO] ::1 - - [11/Jun/2026:12:08:08 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:08 [INFO] ::1 - - [11/Jun/2026:12:08:08 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:13 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:08:13 [ERROR] Request failed
+2026-06-11 12:08:13 [INFO] ::1 - - [11/Jun/2026:12:08:13 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:08:48 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:08:48 [ERROR] Request failed
+2026-06-11 12:08:48 [INFO] ::1 - - [11/Jun/2026:12:08:48 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:09:26 [INFO] ::1 - - [11/Jun/2026:12:09:26 +0000] "GET / HTTP/1.1" 200 11841 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:09:27 [INFO] ::1 - - [11/Jun/2026:12:09:27 +0000] "GET /style.css HTTP/1.1" 200 15245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:09:27 [INFO] ::1 - - [11/Jun/2026:12:09:27 +0000] "GET /script.js HTTP/1.1" 200 13921 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:09:56 [INFO] ::1 - - [11/Jun/2026:12:09:56 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:09:56 [INFO] ::1 - - [11/Jun/2026:12:09:56 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:09:56 [INFO] ::1 - - [11/Jun/2026:12:09:56 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:09:56 [INFO] ::1 - - [11/Jun/2026:12:09:56 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:07 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:10:07 [ERROR] Request failed
+2026-06-11 12:10:07 [INFO] ::1 - - [11/Jun/2026:12:10:07 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:33 [INFO] ::1 - - [11/Jun/2026:12:10:33 +0000] "GET / HTTP/1.1" 200 11841 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:33 [INFO] ::1 - - [11/Jun/2026:12:10:33 +0000] "GET /style.css HTTP/1.1" 200 15245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:33 [INFO] ::1 - - [11/Jun/2026:12:10:33 +0000] "GET /script.js HTTP/1.1" 200 13921 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:33 [INFO] ::1 - - [11/Jun/2026:12:10:33 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:34 [INFO] ::1 - - [11/Jun/2026:12:10:34 +0000] "GET / HTTP/1.1" 200 11841 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:35 [INFO] ::1 - - [11/Jun/2026:12:10:35 +0000] "GET /style.css HTTP/1.1" 200 15245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:35 [INFO] ::1 - - [11/Jun/2026:12:10:35 +0000] "GET /script.js HTTP/1.1" 200 13921 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:35 [INFO] ::1 - - [11/Jun/2026:12:10:35 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:10:42 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:10:42 [ERROR] Request failed
+2026-06-11 12:10:42 [INFO] ::1 - - [11/Jun/2026:12:10:42 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:11:14 [WARN] Invalid API Key attempt for POST /shorten
+2026-06-11 12:11:14 [ERROR] Request failed
+2026-06-11 12:11:14 [INFO] ::1 - - [11/Jun/2026:12:11:14 +0000] "POST /api/v1/shorten HTTP/1.1" 403 38 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:38 [INFO] ::1 - - [11/Jun/2026:12:12:38 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:38 [INFO] ::1 - - [11/Jun/2026:12:12:38 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:38 [INFO] ::1 - - [11/Jun/2026:12:12:38 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:38 [INFO] ::1 - - [11/Jun/2026:12:12:38 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:49 [INFO] ::1 - - [11/Jun/2026:12:12:49 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:49 [INFO] ::1 - - [11/Jun/2026:12:12:49 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:49 [INFO] ::1 - - [11/Jun/2026:12:12:49 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:12:49 [INFO] ::1 - - [11/Jun/2026:12:12:49 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:13:14 [DEBUG] API Key authenticated: key1
+2026-06-11 12:13:14 [INFO] Request completed
+2026-06-11 12:13:14 [INFO] ::1 - - [11/Jun/2026:12:13:14 +0000] "POST /api/v1/shorten HTTP/1.1" 201 85 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:13:42 [INFO] ::1 - - [11/Jun/2026:12:13:42 +0000] "GET /22a506d5 HTTP/1.1" 301 131 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:15:44 [DEBUG] API Key authenticated: key1
+2026-06-11 12:15:45 [INFO] Request completed
+2026-06-11 12:15:45 [INFO] ::1 - - [11/Jun/2026:12:15:45 +0000] "POST /api/v1/shorten HTTP/1.1" 201 85 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.123.2 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-11 12:16:33 [INFO] ::1 - - [11/Jun/2026:12:16:33 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:16:34 [INFO] ::1 - - [11/Jun/2026:12:16:34 +0000] "GET /style.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:16:34 [INFO] ::1 - - [11/Jun/2026:12:16:34 +0000] "GET /script.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-11 12:16:48 [DEBUG] API Key authenticated: key1
+2026-06-11 12:16:48 [INFO] Request completed
+2026-06-11 12:16:48 [INFO] ::1 - - [11/Jun/2026:12:16:48 +0000] "POST /api/v1/shorten HTTP/1.1" 201 85 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
